@@ -9,5 +9,6 @@ package Modelo;
  * @author Federico
  */
 public class Counter {
+    system.out.println("Este es el Counter");
     
 }
