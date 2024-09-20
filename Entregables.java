@@ -9,6 +9,5 @@ package Modelo;
  * @author 
  */
 public class Entregables {
-    system.out.println("Hola");
     
 }
